@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Artillery_Client",
+			"Path": "..\\Source\\Artillery_Client.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Artillery_ClientEditor",
+			"Path": "..\\Source\\Artillery_ClientEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

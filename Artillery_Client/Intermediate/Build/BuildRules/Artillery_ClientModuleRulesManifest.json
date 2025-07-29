@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\GitHubs\\Artillery_Client\\Artillery_Client\\Source\\Artillery_Client\\Artillery_Client.Build.cs",
+		"C:\\GitHubs\\Artillery_Client\\Artillery_Client\\Source\\Artillery_Client.Target.cs",
+		"C:\\GitHubs\\Artillery_Client\\Artillery_Client\\Source\\Artillery_ClientEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
