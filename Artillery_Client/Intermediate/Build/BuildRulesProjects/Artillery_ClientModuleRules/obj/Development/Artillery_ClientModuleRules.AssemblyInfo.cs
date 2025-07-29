@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Artillery_ClientModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5a7f035a65e929f374c31a93822ee4e122748ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+638f2f93144f890b35e4bcce0007f1bdfa0870b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Artillery_ClientModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Artillery_ClientModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

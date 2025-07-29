@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\githubs\\artillery_client\\artillery_client\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\artillery_client\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\githubs\\artillery_client\\artillery_client\\intermediate\\build\\win64\\x64\\artillery_clienteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\githubs\\artillery_client\\artillery_client\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\artillery_client\\definitions.artillery_client.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\githubs\\artillery_client\\artillery_client\\intermediate\\build\\win64\\unrealeditor\\inc\\artillery_client\\uht\\networkmanager.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\githubs\\artillery_client\\artillery_client\\intermediate\\build\\win64\\x64\\artillery_clienteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\githubs\\artillery_client\\artillery_client\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\artillery_client\\definitions.artillery_client.h",
+            "c:\\githubs\\artillery_client\\artillery_client\\source\\artillery_client\\public\\networkmanager.h",
+            "c:\\githubs\\artillery_client\\artillery_client\\intermediate\\build\\win64\\unrealeditor\\inc\\artillery_client\\uht\\networkmanager.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

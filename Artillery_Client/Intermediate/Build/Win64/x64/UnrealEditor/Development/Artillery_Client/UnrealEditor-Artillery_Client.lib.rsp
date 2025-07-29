@@ -7,7 +7,10 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\GitHubs\Artillery_Client\Artillery_Client\Intermediate\Build\Win64\x64\Artillery_ClientEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\GitHubs\Artillery_Client\Artillery_Client\Intermediate\Build\Win64\x64\UnrealEditor\Development\Artillery_Client\Artillery_Client.init.gen.cpp.obj"
+"C:\GitHubs\Artillery_Client\Artillery_Client\Intermediate\Build\Win64\x64\UnrealEditor\Development\Artillery_Client\NetworkManager.gen.cpp.obj"
 "C:\GitHubs\Artillery_Client\Artillery_Client\Intermediate\Build\Win64\x64\UnrealEditor\Development\Artillery_Client\Artillery_Client.cpp.obj"
 "C:\GitHubs\Artillery_Client\Artillery_Client\Intermediate\Build\Win64\x64\UnrealEditor\Development\Artillery_Client\PerModuleInline.gen.cpp.obj"
+"C:\GitHubs\Artillery_Client\Artillery_Client\Intermediate\Build\Win64\x64\UnrealEditor\Development\Artillery_Client\NetworkManager.cpp.obj"
 "C:\GitHubs\Artillery_Client\Artillery_Client\Intermediate\Build\Win64\x64\UnrealEditor\Development\Artillery_Client\Default.rc2.res"
 /OUT:"C:\GitHubs\Artillery_Client\Artillery_Client\Intermediate\Build\Win64\x64\UnrealEditor\Development\Artillery_Client\UnrealEditor-Artillery_Client.lib"
